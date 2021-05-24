@@ -1,3 +1,4 @@
+--test comment
 {-
 	Primeiros passos em Haskell
 -}
