@@ -31,7 +31,7 @@ hasEqHeads :: [Int] -> [Int] -> Bool
 hasEqHeads listA listB = head listA == head listB
 
 isVowel2 :: Char -> Bool
-isVowel2 c = elem c ['a', 'e', 'i', 'o', 'u']
+isVowel2 c = elem c "aeiouAEIOU"
 
 
 
