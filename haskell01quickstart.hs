@@ -2,6 +2,8 @@
 	Primeiros passos em Haskell
 -}
 
+module Quickstart where
+
 -- Eleva um numero ao quadrado
 -- Aqui temos um comentario!
 square :: Int -> Int
